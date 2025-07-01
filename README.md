@@ -4,6 +4,7 @@ This video game took 7th place at the Future Business Leaders of America Nationa
 In Lost, you play as a person who has become lost in the pursuit of the perfect word. 
 
 As you journey through different envionrments and solve word and platforming puzzles, you will gain insight on youself and what the perfect word is. 
+
 ![image](https://github.com/user-attachments/assets/d313476a-970a-4b8e-9154-ca4a54ab0c47)
 ![image](https://github.com/user-attachments/assets/88dccc27-afdc-48a0-a128-a29f0a95e21d)
 
