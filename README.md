@@ -9,7 +9,8 @@ As you journey through different envionrments and solve word and platforming puz
 ![image](https://github.com/user-attachments/assets/88dccc27-afdc-48a0-a128-a29f0a95e21d)
 
 And along the way, you will no longer be lost.
-![image](https://github.com/user-attachments/assets/2b6a159e-c650-4922-b393-016133d05793)
+![image](https://github.com/user-attachments/assets/c7735c84-2ebf-4937-9904-46e689ece71a)
+
 
  In order to play the most recent version of the game go to the builds folder and select the most recent build. Otherwise, feel free to take a look at previous iterations of Lost. 
  Enjoy :) 
